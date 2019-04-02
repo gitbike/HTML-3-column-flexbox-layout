@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+.wrapper {
+  width: 950px;
+  margin: 0 auto;
+}
+
 .flex-container {
   display: flex;
 }
