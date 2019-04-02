@@ -11,8 +11,18 @@
 
 .main {
   width: 550px;
+  order: 2
 }
 
 .aside {
   width: 200px;
 }
+
+.sidebar1 {
+  order: 1;
+}
+
+.sidebar2 {
+  order: 3;
+}
+
