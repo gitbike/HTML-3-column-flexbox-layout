@@ -1,1 +1,28 @@
 @charset "UTF-8";
+
+.wrapper {
+  width: 950px;
+  margin: 0 auto;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.main {
+  width: 550px;
+  order: 2
+}
+
+.aside {
+  width: 200px;
+}
+
+.sidebar1 {
+  order: 1;
+}
+
+.sidebar2 {
+  order: 3;
+}
+
