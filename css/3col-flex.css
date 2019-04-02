@@ -8,3 +8,11 @@
 .flex-container {
   display: flex;
 }
+
+.main {
+  width: 550px;
+}
+
+.aside {
+  width: 200px;
+}
